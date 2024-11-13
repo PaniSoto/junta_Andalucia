@@ -17,7 +17,7 @@ function MenuPrincipal() {
                 : <Menu onClick={() => setOpen(true)} className="fixed top-3 right-10 size-10 bg-blue-100 p-2 rounded-md" />
             }
             {open &&
-                <aside className="w-[310px] shrink-0 overflow-y-auto bg-[rgba(4,64,133,0.5)] p-3 rounded-lg mx-2 my-2">
+                <aside className="w-[310px] shrink-0 overflow-y-auto bg-[rgba(4,64,133,0.5)] p-3 rounded-lg mx-2 my-2 fixed top-0 bottom-0 md:relative">
                     <Link className={classLink} href={'/'}>{menu[0]} </Link>
 
                     <details>
