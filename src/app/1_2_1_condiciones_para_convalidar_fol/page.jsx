@@ -33,35 +33,35 @@ export default function Home() {
         <table className="w-full lg:w-[80%] self-center border-separate mt-8">
           <tbody>
             <tr>
-              <th className="border-2 border-blue-200 p-4 text-center bg-blue-200 w-[400px]">Módulo a convalidar</th>
+              <th className="border-2 border-blue-200 p-4 text-center bg-blue-200 w-[400px] ">Módulo a convalidar</th>
               <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">Formación a aportar</th>
             </tr>
             <tr>
               <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">FOL GM (LOGSE Ley Orgánica 1/1990, de 3 de octubre)</th>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOGSE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOGSE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOGSE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOGSE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOE</td>
             </tr>
             <tr>
               <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">FOL GS (LOGSE Ley Orgánica 1/1990, de 3 de octubre)</th>
-              <td className="border-2 border-blue-200 p-4">FOL GS LOGSE</td>
+              <td className="border-2 border-blue-200 p-4 hover:bg-blue-200">FOL GS LOGSE</td>
             </tr>
             <tr>
               <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">FOL GM (LOE Ley Orgánica 2/2006, de 3 de mayo)</th>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">Título Técnico Superior en Prevención de Riesgos Profesionales</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">Título Técnico Superior en Prevención de Riesgos Profesionales</td>
             </tr>
             <tr>
               <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">FOL GS (LOE Ley Orgánica 2/2006, de 3 de mayo)</th>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOE</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
-              <td className="border-2 border-blue-200 p-4 flex flex-col">Título Técnico Superior en Prevención de Riesgos Profesionales</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOE</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">FOL GM LOGSE + Certificado nivel básico actividad preventiva</td>
+              <td className="border-2 border-blue-200 p-4 flex flex-col hover:bg-blue-200">Título Técnico Superior en Prevención de Riesgos Profesionales</td>
             </tr>
           </tbody>
         </table>

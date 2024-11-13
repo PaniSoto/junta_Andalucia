@@ -33,16 +33,16 @@ export default function Home() {
         <table className="w-[100%] lg:w-[80%] self-center border-separate">
           <tbody>
             <tr>
-              <th className="border-2 border-blue-200 px-2 text-center bg-blue-200 w-[18%] text-[18px]">Elaborado por:</th>
-              <td className="border-2 border-blue-200 p-3 text-[18px] text-gray-500">Dirección General de Formación Profesional</td>
+              <th className="border-2 border-blue-100 px-2 text-center bg-blue-200 w-[18%] text-[18px]">Elaborado por:</th>
+              <td className="border-2 border-blue-100 p-3 text-[18px] text-gray-500 hover:bg-blue-200">Dirección General de Formación Profesional</td>
             </tr>
             <tr>
-              <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">Versión:</th>
-              <td className="border-2 border-blue-200 p-4">5</td>
+              <th className="border-2 border-blue-100 p-4 text-center bg-blue-200 text-[18px]">Versión:</th>
+              <td className="border-2 border-blue-100 p-4 hover:bg-blue-200">5</td>
             </tr>
             <tr>
-              <th className="border-2 border-blue-200 p-4 text-center bg-blue-200">Fecha de publicación:</th>
-              <td className="border-2 border-blue-200 p-4">3/03/2022</td>
+              <th className="border-2 border-blue-100 p-4 text-center bg-blue-200 text-[18px]">Fecha de publicación:</th>
+              <td className="border-2 border-blue-100 p-4 hover:bg-blue-200">3/03/2022</td>
             </tr>
           </tbody>
         </table>
