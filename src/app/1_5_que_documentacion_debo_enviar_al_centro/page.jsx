@@ -13,7 +13,7 @@ export default function Home() {
       <Nav pos={15} />
 
       <div className="flex flex-col gap-4">
-
+hola
       </div>
     </>
   );
