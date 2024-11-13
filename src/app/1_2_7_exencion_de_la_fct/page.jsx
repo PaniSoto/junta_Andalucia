@@ -31,7 +31,7 @@ export default function Home() {
           <div className="flex flex-row items-center">
             <p className="font-bold px-4">Información sobre la exención de la FCT:</p>
           </div>
-          <ItemLista>Apartado "¿Cómo se solicita la exención del módulo profesional de Formación en Centros de Trabajo (FCT)?", en el siguiente enlace: <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17274" className="text-blue-500 underline">Convalidaciones entre módulos profesionales</a>.</ItemLista>
+          <ItemLista>Apartado &quot;¿Cómo se solicita la exención del módulo profesional de Formación en Centros de Trabajo (FCT)?&quot;, en el siguiente enlace: <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17274" className="text-blue-500 underline">Convalidaciones entre módulos profesionales</a>.</ItemLista>
           </div>
 
 
